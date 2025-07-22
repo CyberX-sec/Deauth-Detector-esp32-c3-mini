@@ -2,7 +2,7 @@
 
 Simply, open arduino ide, plug in your esp32 c3 mini to the computer, choose the esp32 c3 divkit/port and upload the code !
 
-Connect to the access point ( wifi network ) that will apper
+Connect to the access point ( wifi network ) that will appear
 - Network name : Cipher
 - Passowrd : CyberX123
 
