@@ -13,3 +13,7 @@ Now whenever deauth attack starts it will apper on this web page
 # important 
 
 Be sure to edit the code in line 19 to match your network channel before uploading the code
+
+visit our website to read the full article about this tool :
+
+- https://cyberx-sec.github.io/Web/
