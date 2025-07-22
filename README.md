@@ -16,4 +16,4 @@ Be sure to edit the code in line 19 to match your network channel before uploadi
 
 visit our website to read the full article about this tool :
 
-- https://cyberx-sec.github.io/Web/
+- [[https://cyberx-sec.github.io/Web/](https://cyberx-sec.github.io/Web/Projects/Main.html)](https://cyberx-sec.github.io/Web/Projects/WifiDiagnoser.html)
